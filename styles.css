@@ -1,0 +1,21 @@
+element.style {
+    margin: 0px;
+}
+
+section{
+    background: rgb(19, 55, 165);
+}
+body {
+    color: white;
+    background: rgb(223, 226, 228);
+    margin: 0px;
+}
+
+
+
+header {
+    border-bottom: solid 2px rgb(46, 226, 26) padding: 20px;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(46, 226, 26);
+}
